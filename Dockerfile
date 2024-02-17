@@ -1,5 +1,5 @@
 # Use node:alpine as the base image
-FROM node:18.15-alpine
+FROM node:18.19.0-alpine
 
 # Set the working directory
 WORKDIR /usr/src
