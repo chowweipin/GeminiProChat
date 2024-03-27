@@ -26,7 +26,7 @@
     "eventsource-parser": "^1.0.0",
     "highlight.js": "^11.8.0",
     "js-sha256": "^0.9.0",
-    "katex": "^0.16.7",
+    "katex": "^0.16.10",
     "markdown-it": "^13.0.1",
     "markdown-it-highlightjs": "^4.0.1",
     "markdown-it-katex": "^2.0.3",
