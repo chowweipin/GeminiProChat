@@ -22,7 +22,7 @@
     "@zag-js/slider": "^0.16.0",
     "@zag-js/solid": "^0.16.0",
     "astro": "^2.7.0",
-    "eslint": "^8.43.0",
+    "eslint": "^9.15.0",
     "eventsource-parser": "^1.0.0",
     "highlight.js": "^11.8.0",
     "js-sha256": "^0.9.0",
